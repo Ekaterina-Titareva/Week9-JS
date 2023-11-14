@@ -1,0 +1,24 @@
+body {
+    font-size: 18px;
+}
+
+.container {
+    margin: 15px auto;
+}
+
+section {
+    margin: 20px 0;
+    padding: 10px 0;
+    border-bottom: 1px solid #3f8efc;
+}
+
+li::first-line, li::marker {
+    font-weight: 700;
+}
+
+div.section {
+	border-top : 1px solid #c0c0c0;
+	border-bottom : 1px solid #c0c0c0;
+	margin: 20px 0;
+	padding: 20px 0;
+}
