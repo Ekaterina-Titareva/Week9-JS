@@ -22,3 +22,8 @@ div.section {
 	margin: 20px 0;
 	padding: 20px 0;
 }
+
+.links {
+    display: flex;
+    gap: 20%;
+}
